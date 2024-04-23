@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 4. Run the main Python script:
 
-python main.py
+Loan Approval Prediction.ipynb
 
 
 ## Machine Learning Models
